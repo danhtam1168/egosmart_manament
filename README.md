@@ -1,0 +1,1 @@
+# egosmart_manament
