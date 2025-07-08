@@ -1,0 +1,101 @@
+[
+ {
+  "TT": 1,
+  "Mã lớp": "MP002",
+  "Tên lớp": "Toán THPT - Khối 11",
+  "Mô tả": "Lịch chuẩn khối 11",
+  "Học sinh": "Từ Vũ Phương Nghi",
+  "Mã HS": "M019",
+  "Lớp": "Lớp 11",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 2,
+  "Mã lớp": "TP001",
+  "Tên lớp": "Vật lí THPT - Khối 11",
+  "Mô tả": "Lớp chuyên Vật Lí - Khối 11",
+  "Học sinh": "Từ Vũ Phương Nghi",
+  "Mã HS": "M019",
+  "Lớp": "Lớp 11",
+  "Môn học": "Môn tự chọn trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 3,
+  "Mã lớp": "PP001",
+  "Tên lớp": "Phụ đạo anh văn - Cấp 3",
+  "Mô tả": "Lớp dành riêng cho Phương Nghi",
+  "Học sinh": "Từ Vũ Phương Nghi",
+  "Mã HS": "M019",
+  "Lớp": "Lớp 11",
+  "Môn học": "Phụ đạo trung học phổ thông",
+  "Phụ trách": "Lê Thành Chuẩn"
+ },
+ {
+  "TT": 4,
+  "Mã lớp": "TP001",
+  "Tên lớp": "Vật lí THPT - Khối 11",
+  "Mô tả": "Lớp chuyên Vật Lí - Khối 11",
+  "Học sinh": "Trần Minh Thư",
+  "Mã HS": "M031",
+  "Lớp": "Lớp 11",
+  "Môn học": "Môn tự chọn trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 5,
+  "Mã lớp": "MP002",
+  "Tên lớp": "Toán THPT - Khối 11",
+  "Mô tả": "Lịch chuẩn khối 11",
+  "Học sinh": "Trần Minh Thư",
+  "Mã HS": "M031",
+  "Lớp": "Lớp 11",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 6,
+  "Mã lớp": "MP002",
+  "Tên lớp": "Toán THPT - Khối 11",
+  "Mô tả": "Lịch chuẩn khối 11",
+  "Học sinh": "Hồng Minh Ngọc",
+  "Mã HS": "M037",
+  "Lớp": "Lớp 10",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 7,
+  "Mã lớp": "MP003",
+  "Tên lớp": "Toán THPT - Khối 12",
+  "Mô tả": "Lịch chuẩn khối 12",
+  "Học sinh": "Trịnh Thiên Kỳ",
+  "Mã HS": "M038",
+  "Lớp": "Lớp 12",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 8,
+  "Mã lớp": "MP001",
+  "Tên lớp": "Toán THPT - Khối 10",
+  "Mô tả": "Lịch chuẩn khối 10",
+  "Học sinh": "Lỗ Quốc Thịnh",
+  "Mã HS": "M020",
+  "Lớp": "Lớp 9",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 9,
+  "Mã lớp": "MP001",
+  "Tên lớp": "Toán THPT - Khối 10",
+  "Mô tả": "Lịch chuẩn khối 10",
+  "Học sinh": "Nguyễn Mạnh Khổng",
+  "Mã HS": "M022",
+  "Lớp": "Lớp 9",
+  "Môn học": "Toán - Trung học phổ thông",
+  "Phụ trách": "Đặng Công Danh"
+ }
+]

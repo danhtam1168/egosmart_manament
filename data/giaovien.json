@@ -1,0 +1,56 @@
+[
+ {
+  "TT": 1,
+  "Tên giáo viên": "Lê Thành Chuẩn",
+  "Mã số": "T01",
+  "Kí hiệu": "GS"
+ },
+ {
+  "TT": 2,
+  "Tên giáo viên": "Trương Thái Hoàng Long",
+  "Mã số": "T02",
+  "Kí hiệu": "HL"
+ },
+ {
+  "TT": 3,
+  "Tên giáo viên": "Đặng Công Danh",
+  "Mã số": "T03",
+  "Kí hiệu": "CD"
+ },
+ {
+  "TT": 4,
+  "Tên giáo viên": "Hồng Trúc Vi",
+  "Mã số": "T04",
+  "Kí hiệu": "TV"
+ },
+ {
+  "TT": 5,
+  "Tên giáo viên": "Trần Thùy Mỵ",
+  "Mã số": "E01",
+  "Kí hiệu": "TM"
+ },
+ {
+  "TT": 6,
+  "Tên giáo viên": "Phan Thúy Bảo",
+  "Mã số": "E02",
+  "Kí hiệu": "TB"
+ },
+ {
+  "TT": 7,
+  "Tên giáo viên": "Đào Nguyễn Anh Đào",
+  "Mã số": "E03",
+  "Kí hiệu": "AD"
+ },
+ {
+  "TT": 8,
+  "Tên giáo viên": "Nguyễn Quốc Khang",
+  "Mã số": "T08",
+  "Kí hiệu": "QK"
+ },
+ {
+  "TT": 9,
+  "Tên giáo viên": "Võ Thành Nguyên",
+  "Mã số": "T09",
+  "Kí hiệu": "TN"
+ }
+]

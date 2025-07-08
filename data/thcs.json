@@ -1,0 +1,189 @@
+[
+ {
+  "TT": 1,
+  "Mã lớp": "MC001",
+  "Tên lớp": "Toán THCS - Khối 6",
+  "Mô tả": "Lịch chuẩn khối 6",
+  "Học sinh": "Hồng Minh Phát",
+  "Mã HS": "M003",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 2,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Trần Huỳnh Trung Nghĩa",
+  "Mã HS": "M006",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 3,
+  "Mã lớp": "MC003",
+  "Tên lớp": "Toán THCS - Khối 8",
+  "Mô tả": "Lịch chuẩn khối 8",
+  "Học sinh": "Nguyễn Ngọc Ngân",
+  "Mã HS": "M008",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 4,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Huỳnh Lê Ngọc Như",
+  "Mã HS": "M011",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 5,
+  "Mã lớp": "MC003",
+  "Tên lớp": "Toán THCS - Khối 8",
+  "Mô tả": "Lịch chuẩn khối 8",
+  "Học sinh": "Đinh Việt Quốc Trang",
+  "Mã HS": "M012",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 6,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Nguyễn Lý Thiên Kim",
+  "Mã HS": "M014",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 7,
+  "Mã lớp": "MC001",
+  "Tên lớp": "Toán THCS - Khối 6",
+  "Mô tả": "Lịch chuẩn khối 6",
+  "Học sinh": "Nguyễn Lý Thiên Phúc",
+  "Mã HS": "M015",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 8,
+  "Mã lớp": "MC002",
+  "Tên lớp": "Toán THCS - Khối 7",
+  "Mô tả": "Lịch chuẩn khối 7",
+  "Học sinh": "Bùi Phan Thiên Phú",
+  "Mã HS": "M017",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 9,
+  "Mã lớp": "MC002",
+  "Tên lớp": "Toán THCS - Khối 7",
+  "Mô tả": "Lịch chuẩn khối 7",
+  "Học sinh": "Nguyễn Hữu Vinh",
+  "Mã HS": "M021",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 10,
+  "Mã lớp": "MC003",
+  "Tên lớp": "Toán THCS - Khối 8",
+  "Mô tả": "Lịch chuẩn khối 8",
+  "Học sinh": "Trần Minh Thư",
+  "Mã HS": "M024",
+  "Lớp": "Lớp 7",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 11,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Hồ Đăng Khôi",
+  "Mã HS": "M028",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 12,
+  "Mã lớp": "MC002",
+  "Tên lớp": "Toán THCS - Khối 7",
+  "Mô tả": "Lịch chuẩn khối 7",
+  "Học sinh": "Huỳnh Ngọc Kim Anh",
+  "Mã HS": "M030",
+  "Lớp": "Lớp 7",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 13,
+  "Mã lớp": "MC002",
+  "Tên lớp": "Toán THCS - Khối 7",
+  "Mô tả": "Lịch chuẩn khối 7",
+  "Học sinh": "Đỗ Hoàng Thục Khuê",
+  "Mã HS": "M032",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 14,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Trần Đăng Khoa",
+  "Mã HS": "M035",
+  "Lớp": "Lớp 8",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 15,
+  "Mã lớp": "MC004",
+  "Tên lớp": "Toán THCS - Khối 9",
+  "Mô tả": "Lịch chuẩn khối 9",
+  "Học sinh": "Nguyễn Phát Tài",
+  "Mã HS": "M039",
+  "Lớp": "Lớp 9",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 16,
+  "Mã lớp": "MC001",
+  "Tên lớp": "Toán THCS - Khối 6",
+  "Mô tả": "Lịch chuẩn khối 6",
+  "Học sinh": "Hoàng Hà Chi",
+  "Mã HS": "M046",
+  "Lớp": "Lớp 6",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ },
+ {
+  "TT": 17,
+  "Mã lớp": "MC002",
+  "Tên lớp": "Toán THCS - Khối 7",
+  "Mô tả": "Lịch chuẩn khối 7",
+  "Học sinh": "Lâm Nhã Uyên",
+  "Mã HS": "M049",
+  "Lớp": "Lớp 7",
+  "Môn học": "Toán - Trung học cơ sở",
+  "Phụ trách": "Võ Thành Nguyên"
+ }
+]

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "diemdanh": "egosmart-91b"
+  },
+  "targets": {
+    "egosmart-91b": {
+      "hosting": {
+        "egosmart-91b-ct": [
+          "egosmart-91b"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

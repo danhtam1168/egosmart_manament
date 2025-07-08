@@ -1,0 +1,211 @@
+[
+ {
+  "TT": 1,
+  "Mã lớp": "MT001",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Đỗ Nguyễn Nguyên Khôi",
+  "Mã HS": "M001",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 2,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Nguyễn Cao Quỳnh Chi",
+  "Mã HS": "M002",
+  "Lớp": "Lớp 5",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 3,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Phạm Dĩ Đắc Kiếm",
+  "Mã HS": "M004",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 4,
+  "Mã lớp": "MT003",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 0;1;2;3;4",
+  "Học sinh": "Trần Huỳnh Trung Nhân",
+  "Mã HS": "M005",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Hồng Trúc Vi"
+ },
+ {
+  "TT": 5,
+  "Mã lớp": "MT001",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Trần Minh Thùy",
+  "Mã HS": "M007",
+  "Lớp": "Lớp 1",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 6,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Phạm Lê Hoàng Dương",
+  "Mã HS": "M009",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 7,
+  "Mã lớp": "MT003",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 0;1;2;3;4",
+  "Học sinh": "Huỳnh Lê Anh Thư",
+  "Mã HS": "M010",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Hồng Trúc Vi"
+ },
+ {
+  "TT": 8,
+  "Mã lớp": "MT001",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Đinh Việt Thiên Trang",
+  "Mã HS": "M013",
+  "Lớp": "Lớp 5",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 9,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Nguyễn Mai Xuân Trúc",
+  "Mã HS": "M016",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 10,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Nguyễn Ngọc Phương Vy",
+  "Mã HS": "M018",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 11,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Huỳnh Minh Khoa",
+  "Mã HS": "M025",
+  "Lớp": "Lớp 5",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 12,
+  "Mã lớp": "MT005",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Nguyễn Song Huy",
+  "Mã HS": "M027",
+  "Lớp": "Lớp 1",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 13,
+  "Mã lớp": "MT006",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Trần Kiến Văn",
+  "Mã HS": "M029",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Đặng Công Danh"
+ },
+ {
+  "TT": 14,
+  "Mã lớp": "MT004",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn cho các học sinh Mầm non",
+  "Học sinh": "Nguyễn Kim Ngân",
+  "Mã HS": "M033",
+  "Lớp": "Mầm non",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 15,
+  "Mã lớp": "MT002",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 5",
+  "Học sinh": "Lê Bảo Trân",
+  "Mã HS": "M041",
+  "Lớp": "Lớp 4",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Trương Thái Hoàng Long"
+ },
+ {
+  "TT": 16,
+  "Mã lớp": "MT001",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Hà Lê Như Trúc",
+  "Mã HS": "M044",
+  "Lớp": "Lớp 5",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 17,
+  "Mã lớp": "MT003",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 0;1;2;3;4",
+  "Học sinh": "Hoàng Hà Phương",
+  "Mã HS": "M045",
+  "Lớp": "Lớp 2",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Hồng Trúc Vi"
+ },
+ {
+  "TT": 18,
+  "Mã lớp": "MT001",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Các học sinh không xếp được lịch chung",
+  "Học sinh": "Võ Phan Khởi My",
+  "Mã HS": "M047",
+  "Lớp": "Lớp 3",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Nguyễn Quốc Khang"
+ },
+ {
+  "TT": 19,
+  "Mã lớp": "MT003",
+  "Tên lớp": "Toán tiểu học",
+  "Mô tả": "Lịch chuẩn khối 0;1;2;3;4",
+  "Học sinh": "Nguyễn Xuân Tân",
+  "Mã HS": "M048",
+  "Lớp": "Lớp 1",
+  "Môn học": "Toán tiểu học",
+  "Phụ trách": "Hồng Trúc Vi"
+ }
+]

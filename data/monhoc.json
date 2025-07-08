@@ -1,0 +1,62 @@
+[
+ {
+  "TT": 1,
+  "Môn học": "Toán tiểu học",
+  "Kí hiệu": "MT"
+ },
+ {
+  "TT": 2,
+  "Môn học": "Toán tiểu học & soroban",
+  "Kí hiệu": "MS"
+ },
+ {
+  "TT": 3,
+  "Môn học": "Toán - Trung học phổ thông",
+  "Kí hiệu": "MP"
+ },
+ {
+  "TT": 4,
+  "Môn học": "Toán - Trung học cơ sở",
+  "Kí hiệu": "MC"
+ },
+ {
+  "TT": 5,
+  "Môn học": "Anh văn thiếu nhi",
+  "Kí hiệu": "AK"
+ },
+ {
+  "TT": 6,
+  "Môn học": "Anh văn - Tiểu học",
+  "Kí hiệu": "AT"
+ },
+ {
+  "TT": 7,
+  "Môn học": "Anh văn - Trung học phổ thông",
+  "Kí hiệu": "AP"
+ },
+ {
+  "TT": 8,
+  "Môn học": "Anh văn - Trung học cơ sở",
+  "Kí hiệu": "AC"
+ },
+ {
+  "TT": 9,
+  "Môn học": "Phụ đạo trung học cơ sở",
+  "Kí hiệu": "PC"
+ },
+ {
+  "TT": 10,
+  "Môn học": "Phụ đạo trung học phổ thông",
+  "Kí hiệu": "PP"
+ },
+ {
+  "TT": 11,
+  "Môn học": "Môn tự chọn trung học cơ sở",
+  "Kí hiệu": "TC"
+ },
+ {
+  "TT": 12,
+  "Môn học": "Môn tự chọn trung học phổ thông",
+  "Kí hiệu": "TP"
+ }
+]
